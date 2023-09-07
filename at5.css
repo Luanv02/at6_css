@@ -1,0 +1,82 @@
+body {
+    background: url(https://img.freepik.com/fotos-premium/uma-planta-de-folhas-verdes-contra-um-pano-de-fundo-cinza-neutro_926271-2623.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+#a {
+    background-color: white;
+    border: 5px solid rgba(0, 0, 0, 0.350) ;
+    border-radius: 1rem;
+    margin-bottom: 2vh;
+    text-align: center;
+}
+.a {
+    background-image: url(https://u7.uidownload.com/vector/389/953/vector-green-and-grey-grunge-background-texture-.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid rgba(0, 0, 0, 0.350);
+    border-radius: 1rem;
+    margin-bottom: 2vh;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 25px;  
+
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    background-color: rgba(255, 255, 255, 0.644);
+    border-radius: 0.5rem;
+    margin: 2vh 8vw 0vw 8vw;
+    margin-bottom: 5vh;
+}
+
+button {
+    background-color: whitesmoke;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5vh;
+}
+
+button a {
+    text-decoration: line-through;
+    text-decoration-line: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 15px;
+}
+
+small aside {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 10px;
+    margin-bottom: 5vh;
+}
+.a , #a {
+    width: 50vw;
+    margin: 0vh 20vw 0vw 23vw;
+    margin-bottom: 1.5vh;
+}
+
+img {
+    border-radius: 2rem;
+    border: 6px solid rgba(255, 255, 255, 0.664);
+}
